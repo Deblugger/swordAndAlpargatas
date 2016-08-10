@@ -1,0 +1,8 @@
+Arma a1= new Arma("guerrero", "espada de la tempestad", 80, 0, 80, 60);
+Arma a2= new Arma("guerrero", "hacha de la desesperación", 150, 20, 150, 180);
+Arma a3= new Arma("mago", "bastón de la sabiduría", 50, 0, 100, 60);
+Arma a4= new Arma("mago", "bastón de la esperanza", 180, 30, 190, 180);
+Arma a5= new Arma("picaro", "daga de la indolencia", 90, 0, 80, 60);
+Arma a6= new Arma("picaro", "daga de las 5 maldiciones", 160, 50, 170, 180);
+Arma a7= new Arma("guardian", "mazo destructor", 70, 50, 60, 60);
+Arma a8= new Arma("guardian", "mazo milenario", 110, 100, 150, 180);

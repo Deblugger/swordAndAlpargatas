@@ -1,0 +1,5 @@
+﻿Esta organización se hace cargo de administrar todos las cuentas que se han creado, pudiendo eliminarlas si se considera necesario.
+Sus datos se almacenaran en nuestra base de datos, realizando periodicamente copias de seguridad para evitar cualquier problema.
+Este juego es totalmente gratuito y de libre distribución, no será necesario ningún código de activacion.
+No usaremos su nombre ni su contraseña en ningún otro sitio que no pertenezca a este juego.
+Le damos las gracias por usar este juego, y le invitamos a que si tiene algun tipo de sugerencia nos la envia al correo: proyectobach@gmail.com.

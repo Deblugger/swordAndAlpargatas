@@ -1,0 +1,16 @@
+Habilidad hg1= new Habilidad("Estocada", 40, 0.2, 0, 0, 0, 0, "Golpe de espada", "guerrero");
+Habilidad hg2= new Habilidad("Recuperar vida", 0, 0.2, 60, 60, 0, 0, "Recupera un trozo de vida", "guerrero");
+Habilidad hg3= new Habilidad("Subir ataque", 0, 0.2, 50, 0, 30, 0, "Aumenta el ataque de tu guerrero", "guerrero");
+Habilidad hg4= new Habilidad("Golpe maestro", 80, 0.2, 90, 0, 0, 0, "Golpe que daña gravemente a tu rival", "guerrero");
+Habilidad hm1= new Habilidad("Golpe de bastón", 30, 0.2, 0, 0, 0, 0, "Golpea con el bastón a tu enemigo", "mago");
+Habilidad hm2= new Habilidad("Recuperar vida", 0, 0.2, 80, 80, 0, 0, "Recupera un trozo de vida", "mago");
+Habilidad hm3= new Habilidad("Subir ataque", 0, 0.2, 70, 0, 40, 0, "Aumenta el ataque de tu mago", "mago");
+Habilidad hm4= new Habilidad("Hechizo de los 4 elementos", 90, 0.2, 110, 0, 0, 0, "Golpea al enemigo con la fuerza del agua, aire, fuego y tierra", "mago");
+Habilidad hp1= new Habilidad("Golpe de puñal", 20, 0.2, 0, 0, 0, 0, "Apuñala a tu enemigo", "picaro");
+Habilidad hp2= new Habilidad("Recuperar vida", 0, 0.2, 60, 50, 0, 0, "Recupera un trozo de vida", "picaro");
+Habilidad hp3= new Habilidad("Subir ataque", 0, 0.2, 30, 0, 40, 0, "Aumenta el ataque de tu picaro", "picaro");
+Habilidad hp4= new Habilidad("Robo del alma", 80, 0.2, 120, 0, 0, 0, "Lanza un ataque que afecta directamente al alma del enemigo", "picaro");
+Habilidad hg1= new Habilidad("Golpe de escudo", 15, 0.2, 0, 0, 0, 0, "Golpea con el escudo a tu enemigo", "guardian");
+Habilidad hg2= new Habilidad("Recuperar vida", 0, 0.2, 40, 70, 0, 0, "Recupera un trozo de vida", "guardian");
+Habilidad hg3= new Habilidad("Subir ataque", 0, 0.2, 30, 0, 40, 0, "Aumenta el ataque de tu guardian", "guardian");
+Habilidad hg4= new Habilidad("Destructor de huesos", 70, 0.2, 110, 0, 0, 0, "Lanza un ataque potente que destroza al enemigo", "guardian");
